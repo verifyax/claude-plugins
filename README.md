@@ -13,11 +13,9 @@ A [Claude Code](https://code.claude.com/) plugin marketplace for [VerifyAX](http
 Add the marketplace, then install the plugin:
 
 ```
-/plugin marketplace add conscium/verifyax-claude-plugins
+/plugin marketplace add verifyax/claude-plugins
 /plugin install verifyax-api@verifyax-plugins
 ```
-
-(Replace `conscium/verifyax-claude-plugins` with the actual GitHub owner/repo once published.)
 
 ## Use
 
